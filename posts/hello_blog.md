@@ -1,4 +1,4 @@
 hello blog
 
 
-![alt text](/assets/internet.webp)
+![alt text](posts/media/internet.webp)
