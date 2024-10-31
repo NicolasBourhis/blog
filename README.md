@@ -1,3 +1,3 @@
 **posts:**
 
-[hello_blog](posts/hello_blog.md)
+[hello_blog](_posts/hello_blog.md)
