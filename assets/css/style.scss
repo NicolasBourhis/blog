@@ -4,6 +4,10 @@
 @import
   "{{ site.theme }}";
 
+$lm-text-color:            #111111 !default;
+$lm-background-color:      #dddddd !default;
+$lm-code-background-color: #eeeeff !default;
+
 body {
   background-color: #E4EBF4;
 }
